@@ -1,0 +1,17 @@
+{
+  "name": "mochajs",
+  "version": "1.0.0",
+  "description": "Practica MochaJs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "Bianca Yánez",
+  "license": "ISC"
+}
